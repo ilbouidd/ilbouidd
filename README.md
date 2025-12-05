@@ -1,16 +1,20 @@
-## Hi there 👋
+```zsh
+> Devfetch
+```
+<!-- <img align="left" alt="oui" src="https://img.freepik.com/premium-photo/iridescent-fluid-texture-background_125540-5994.jpg" width="228" height="228" /> -->
+<img align="left" alt="oui" src="https://cdn.intra.42.fr/users/31871ace1b7d65512beada34af461b3d/ilbouidd.jpg" width="250" height="250" />
 
-<!--
-**ilbouidd/ilbouidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```zig
+ilbouidd@student.42.fr
+-----------------------
+👤 User: ilbouidd
+🖥️ OS: Ubuntu / MacOs / Windows
+🐚 Shell: zsh
+💻 Language: C / html / css
+⏱️ Currently: student
+🌐 Location: Paris, FR
+💬 Discord: ilyass212
+👻 Snapchat: ilyass75018
+📸 Instagram: ilyass_75018
+🏫 School: 42
+```
