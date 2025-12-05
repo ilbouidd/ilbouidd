@@ -14,4 +14,4 @@ ilbouidd@student.42.fr
 📸 Instagram: ilyass_75018
 🏫 School: 42
 ```
-<img align="left" alt="oui" src="https://giffiles.alphacoders.com/221/221024.gif" width="500" height="500" />
+<img align="left" alt="oui" src="https://giffiles.alphacoders.com/221/221024.gif" width="800" height="500" />
