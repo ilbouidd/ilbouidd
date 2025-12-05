@@ -1,7 +1,3 @@
-```zsh
-> Devfetch
-```
-<!-- <img align="left" alt="oui" src="https://img.freepik.com/premium-photo/iridescent-fluid-texture-background_125540-5994.jpg" width="228" height="228" /> -->
 <img align="left" alt="oui" src="https://cdn.intra.42.fr/users/31871ace1b7d65512beada34af461b3d/ilbouidd.jpg" width="250" height="250" />
 
 ```zig
