@@ -1,4 +1,4 @@
-<img align="left" alt="oui" src="https://cdn.intra.42.fr/users/31871ace1b7d65512beada34af461b3d/ilbouidd.jpg" width="250" height="250" />
+<img align="left" alt="oui" src="https://cdn.intra.42.fr/users/31871ace1b7d65512beada34af461b3d/ilbouidd.jpg" width="280" height="280" />
 
 ```zig
 ilbouidd@student.42.fr
