@@ -12,6 +12,8 @@ ilbouidd@student.42.fr
 💬 Discord: ilyass212
 👻 Snapchat: ilyass75018
 📸 Instagram: ilyass_75018
+🎮 PSN: Ilyass_75018
+👿 Riot: DrVeigarPunk#7518
 🏫 School: 42
 ```
 <img align="left" alt="oui" src="https://giffiles.alphacoders.com/221/221024.gif" width="1040" height="500" />
